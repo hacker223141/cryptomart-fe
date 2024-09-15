@@ -114,32 +114,14 @@ function AboutPage() {
       </div>
       <div className="flex flex-row justify-center gap-4 flex-wrap min-h-[400px] mt-0 py-20 gap-y-20">
         <CoinCard
-          img="https://avatars.githubusercontent.com/u/31966594?v=4"
-          name="Prashanth Kumar"
-          role="Product Manger"
-          link1="https://www.github.com/prashanthkumar0/"
-          link2="https://www.linkedin.com/in/prashanthkumar0/"
+          name="Bhavishya Tawar"
         />
         <CoinCard
-          img="https://media.licdn.com/dms/image/D4D03AQFyy9iSdZs0EQ/profile-displayphoto-shrink_400_400/0/1698762207451?e=1714003200&v=beta&t=VD_ArwzxQGDH9jIusCAJuuGdeLdQWZVNbR2eIjQDSRA"
-          name="Gajendra Kumar"
-          role="Content Creator || Designer"
-          link1="https://github.com/Gajendra-K"
-          link2="https://www.linkedin.com/in/gajendra-kumar-118195175/"
+          name="Sunny Kumar"
         />
         <CoinCard
-          img="/shwetank.jpg"
-          name="Shwetank Tripathi"
+          name="Ankit Kandpal"
           role="Frontend Devloper"
-          link1="https://github.com/Shwetank-Tripathi"
-          link2="https://www.linkedin.com/in/shwetank-tripathi-4b1871189/"
-        />
-        <CoinCard 
-          img="/Sanskar.jpg"
-          name="Sanskar Thakur"
-          role="Designer"
-          link1="https://github.com/SanskarThakur5251"
-          link2="https://www.linkedin.com/in/sanskar-thakur-94a664259/"
         />
       </div>
     </div>
