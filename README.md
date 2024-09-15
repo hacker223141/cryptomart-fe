@@ -1,4 +1,4 @@
-# WebFeb Hackathon - CryptoMart
+# GFG Hackathon - CryptoMart
 
 Welcome to **CryptoMart** - revolutionizing e-commerce with blockchain technology. This readme provides essential information to get started with our project for the WebFeb Hackathon.
 
